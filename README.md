@@ -39,6 +39,20 @@ Leads, customers, sales pipeline, scheduling, invoices, maps, and team messaging
 
 ---
 
+### 👨‍💻 For engineers & hiring managers
+
+I designed and built TheLight end to end as a solo developer: native apps, web app, backend, and billing.
+
+- **Native multiplatform app:** one SwiftUI codebase for iPhone, iPad, and Mac, with Swift Charts dashboards, MapKit routing and geofencing, and full light/dark support
+- **Production web app:** React + TypeScript + Vite + Tailwind, sharing a live Firebase backend with the iOS app
+- **Multi-tenant backend:** Firebase Auth, Cloud Firestore, Storage, and Cloud Functions, with per-company data isolation enforced in security rules and covered by rules unit tests
+- **Real payments:** Stripe invoice payments live in production, with subscription plan tiers enforced on both client and server
+- **Ship-ready practices:** App Store privacy manifest, secrets kept out of source via config templates, automated tests with Vitest
+
+<sub>🔒 Source code is private. Happy to walk through it on a call or share access on request.</sub>
+
+---
+
 <div align="center">
 
 **🛠 Built with**
