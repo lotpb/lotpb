@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="TheLight" src="https://github.com/user-attachments/assets/848a60c6-ebcd-464a-a309-57311377cbbd" />
+<a href="https://thelightcrm.com"><img width="100%" alt="TheLight: Turn every lead into closed business" src="assets/banner.png" /></a>
 
 ## Hi, I'm Peter 👋 — I build **TheLight**
 
@@ -29,12 +29,13 @@ Leads, customers, sales pipeline, scheduling, invoices, maps, and team messaging
 
 ---
 
-### 🧩 Projects
+### 🧩 Use it anywhere
 
-| Project | What it is |
+| Platform | Where |
 | --- | --- |
-| [**TheLightUI**](https://github.com/lotpb/TheLightUI) | Native SwiftUI app for iPhone, iPad, and Mac |
-| [**TheLightUI-Web**](https://github.com/lotpb/TheLightUI-Web) | React + Firebase web CRM, live at [app.thelightcrm.com](https://app.thelightcrm.com) |
+| 🌐 **Web** | [app.thelightcrm.com](https://app.thelightcrm.com) |
+| 📱 **iPhone & iPad** | Native SwiftUI app |
+| 💻 **Mac** | Runs natively on Apple silicon Macs |
 
 ---
 
