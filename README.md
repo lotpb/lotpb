@@ -1,0 +1,55 @@
+<div align="center">
+
+<img width="100%" alt="TheLight" src="https://github.com/user-attachments/assets/848a60c6-ebcd-464a-a309-57311377cbbd" />
+
+## Hi, I'm Peter 👋 — I build **TheLight**
+
+### The all-in-one CRM that helps small businesses see their business clearly.
+
+Leads, customers, sales pipeline, scheduling, invoices, maps, and team messaging. On the web, iPhone, iPad, and Mac.
+
+<a href="https://thelightcrm.com/#contact"><img alt="Request a Demo" src="https://img.shields.io/badge/Request%20a%20Free%20Demo%20%E2%86%92-FF9500?style=for-the-badge" /></a>
+<a href="https://thelightcrm.com"><img alt="Website" src="https://img.shields.io/badge/Website-thelightcrm.com-555555?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://thelightcrm.com/#pricing"><img alt="See Pricing" src="https://img.shields.io/badge/See%20Pricing-34C759?style=for-the-badge" /></a>
+
+</div>
+
+---
+
+### ☀️ Why teams choose TheLight
+
+| | |
+| --- | --- |
+| 👥 **One place for every customer** | Leads, customers, vendors, and employees with full history and follow-ups |
+| 📋 **A pipeline you can see** | Kanban board from first call to completed job |
+| 📊 **Know your numbers** | Revenue, conversions, salesperson performance, and forecasting |
+| 💬 **Stay in touch automatically** | Team chat, bulk email/SMS, and follow-up sequences |
+| 💵 **Get paid faster** | Professional quotes and invoices with online payments |
+| 🗺️ **Built for the field** | Maps, routes, geofencing, and a native iPhone app |
+
+---
+
+### 🧩 Projects
+
+| Project | What it is |
+| --- | --- |
+| [**TheLightUI**](https://github.com/lotpb/TheLightUI) | Native SwiftUI app for iPhone, iPad, and Mac |
+| [**TheLightUI-Web**](https://github.com/lotpb/TheLightUI-Web) | React + Firebase web CRM, live at [app.thelightcrm.com](https://app.thelightcrm.com) |
+
+---
+
+<div align="center">
+
+**🛠 Built with**
+
+<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+<br />
+<sub>📫 Questions or a demo? <a href="https://thelightcrm.com/#contact">Get in touch</a></sub>
+
+</div>
