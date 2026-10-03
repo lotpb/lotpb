@@ -2,11 +2,11 @@
 
 <a href="https://thelightcrm.com"><img width="100%" alt="TheLight: Turn every lead into closed business" src="assets/banner.png" /></a>
 
-## Hi, I'm Peter 👋 — I build **TheLight**
+## Stop losing leads. Start closing jobs.
 
-### The all-in-one CRM that helps small businesses see their business clearly.
+### TheLight is the all-in-one CRM for small businesses and field sales teams, from first call to final invoice.
 
-Leads, customers, sales pipeline, scheduling, invoices, maps, and team messaging. On the web, iPhone, iPad, and Mac.
+Leads, pipeline, scheduling, invoices, maps, and team chat in one app, on the web, iPhone, iPad, and Mac.
 
 <a href="https://thelightcrm.com/#contact"><img alt="Request a Demo" src="https://img.shields.io/badge/Request%20a%20Free%20Demo%20%E2%86%92-FF9500?style=for-the-badge" /></a>
 <a href="https://thelightcrm.com"><img alt="Website" src="https://img.shields.io/badge/Website-thelightcrm.com-555555?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
