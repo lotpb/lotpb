@@ -29,6 +29,16 @@ Leads, customers, sales pipeline, scheduling, invoices, maps, and team messaging
 
 ---
 
+### 📸 A look inside
+
+<div align="center">
+  <a href="https://thelightcrm.com"><img width="100%" alt="TheLight web app: main menu with every CRM, outreach, analytics, and integration feature in one place" src="assets/web-menu.jpg" /></a>
+  <br />
+  <sub><b>One menu for everything:</b> CRM, outreach, analytics, integrations, and more</sub>
+</div>
+
+---
+
 ### 🧩 Use it anywhere
 
 | Platform | Where |
