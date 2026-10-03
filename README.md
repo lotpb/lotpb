@@ -2,9 +2,9 @@
 
 <a href="https://thelightcrm.com"><img width="100%" alt="TheLight: Turn every lead into closed business" src="assets/banner.png" /></a>
 
-## Stop losing leads. Start closing jobs.
+## From first call to final invoice.
 
-### TheLight is the all-in-one CRM for small businesses and field sales teams, from first call to final invoice.
+### TheLight is the all-in-one CRM for small businesses and field sales teams.
 
 Leads, pipeline, scheduling, invoices, maps, and team chat in one app, on the web, iPhone, iPad, and Mac.
 
