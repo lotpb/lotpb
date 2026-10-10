@@ -1,71 +1,63 @@
 <div align="center">
 
-<a href="https://thelightcrm.com"><img width="100%" alt="TheLight: Turn every lead into closed business" src="assets/banner.png" /></a>
+<a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight: Turn every lead into closed business" src="assets/banner.png" /></a>
 
 ## From first call to final invoice.
 
-### TheLight is the all-in-one CRM for small businesses and field sales teams.
+TheLight is the all-in-one CRM for small businesses and field sales teams: leads, pipeline, scheduling, invoices, maps, and team chat in one app, on the web, iPhone, and iPad.
 
-Leads, pipeline, scheduling, invoices, maps, and team chat in one app, on the web, iPhone, iPad, and Mac.
+<a href="https://thelightcrm.com/crm#demo"><img alt="Request a free demo" src="https://img.shields.io/badge/Request%20a%20free%20demo%20%E2%86%92-5B5BF0?style=for-the-badge" /></a>
 
-<a href="https://thelightcrm.com/#contact"><img alt="Request a Demo" src="https://img.shields.io/badge/Request%20a%20Free%20Demo%20%E2%86%92-FF9500?style=for-the-badge" /></a>
-<a href="https://thelightcrm.com"><img alt="Website" src="https://img.shields.io/badge/Website-thelightcrm.com-555555?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://thelightcrm.com/#pricing"><img alt="See Pricing" src="https://img.shields.io/badge/See%20Pricing-34C759?style=for-the-badge" /></a>
+<a href="https://thelightcrm.com/crm">Website</a> · <a href="https://thelightcrm.com/crm#pricing">Pricing</a> · <a href="https://app.thelightcrm.com">Log in</a>
 
 </div>
 
 ---
 
-### ☀️ Why teams choose TheLight
+### Why teams choose TheLight
 
-| | |
-| --- | --- |
-| 👥 **One place for every customer** | Leads, customers, vendors, and employees with full history and follow-ups |
-| 📋 **A pipeline you can see** | Kanban board from first call to completed job |
-| 📊 **Know your numbers** | Revenue, conversions, salesperson performance, and forecasting |
-| 💬 **Stay in touch automatically** | Team chat, bulk email/SMS, and follow-up sequences |
-| 💵 **Get paid faster** | Professional quotes and invoices with online payments |
-| 🗺️ **Built for the field** | Maps, routes, geofencing, and a native iPhone app |
+- **One place for every customer:** leads, customers, vendors, and employees with full history and follow-ups
+- **A pipeline you can see:** a board from first call to completed job, with deals going cold flagged
+- **Know your numbers:** revenue, conversions, salesperson performance, and forecasting
+- **Stay in touch automatically:** team chat, bulk email and SMS, and follow-up sequences
+- **Get paid faster:** professional quotes and invoices with online payments
+- **Built for the field:** maps, routes, geofencing, and a native iPhone app
 
 ---
 
-### 📸 A look inside
+### A look inside
 
 <div align="center">
-  <a href="https://thelightcrm.com"><img width="100%" alt="TheLight web app: main menu with every CRM, outreach, analytics, and integration feature in one place" src="assets/web-menu.jpg" /></a>
+  <a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight pipeline board: new leads, contacted, appointments, and customers, with deal values, upcoming appointments, and deals going cold" src="assets/web-pipeline.jpg" /></a>
   <br />
-  <sub><b>One menu for everything:</b> CRM, outreach, analytics, integrations, and more</sub>
+  <sub><b>Pipeline:</b> every deal by stage, with appointments and leads going cold called out</sub>
+  <br /><br />
+  <a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight customer list: job value, a health score, and overdue payments for each customer, with quick filters" src="assets/web-customers.jpg" /></a>
+  <br />
+  <sub><b>Customers:</b> job value, health score, and overdue payments at a glance</sub>
+  <br />
+  <sub>Screenshots use a demo company; all names are invented.</sub>
 </div>
 
 ---
 
-### 🧩 Use it anywhere
+### For engineers and hiring managers
 
-| Platform | Where |
-| --- | --- |
-| 🌐 **Web** | [app.thelightcrm.com](https://app.thelightcrm.com) |
-| 📱 **iPhone & iPad** | Native SwiftUI app |
-| 💻 **Mac** | Runs natively on Apple silicon Macs |
+I designed and built TheLight end to end as a solo developer: native app, web app, backend, and billing.
 
----
-
-### 👨‍💻 For engineers & hiring managers
-
-I designed and built TheLight end to end as a solo developer: native apps, web app, backend, and billing.
-
-- **Native multiplatform app:** one SwiftUI codebase for iPhone, iPad, and Mac, with Swift Charts dashboards, MapKit routing and geofencing, and full light/dark support
-- **Production web app:** React + TypeScript + Vite + Tailwind, sharing a live Firebase backend with the iOS app
+- **Native app:** one SwiftUI codebase for iPhone and iPad, with Swift Charts dashboards, MapKit routing and geofencing, and full light and dark support. It also runs on Apple silicon Macs as the iPad app.
+- **Production web app:** React, TypeScript, Vite, and Tailwind, sharing a live Firebase backend with the iOS app
 - **Multi-tenant backend:** Firebase Auth, Cloud Firestore, Storage, and Cloud Functions, with per-company data isolation enforced in security rules and covered by rules unit tests
 - **Real payments:** Stripe invoice payments live in production, with subscription plan tiers enforced on both client and server
 - **Ship-ready practices:** App Store privacy manifest, secrets kept out of source via config templates, automated tests with Vitest
 
-<sub>🔒 Source code is private. Happy to walk through it on a call or share access on request.</sub>
+Runs on the web at [app.thelightcrm.com](https://app.thelightcrm.com), on iPhone and iPad, and on Apple silicon Macs.
 
----
+<sub>Source code is private. Happy to walk through it on a call or share access on request.</sub>
 
 <div align="center">
 
-**🛠 Built with**
+<br />
 
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
 <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
@@ -74,7 +66,8 @@ I designed and built TheLight end to end as a solo developer: native apps, web a
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-<br />
-<sub>📫 Questions or a demo? <a href="https://thelightcrm.com/#contact">Get in touch</a></sub>
+<br /><br />
+
+**Get in touch:** [eunitedws@gmail.com](mailto:eunitedws@gmail.com) · [Request a demo](https://thelightcrm.com/crm#demo)
 
 </div>
