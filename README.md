@@ -1,12 +1,16 @@
 <div align="center">
 
-<a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight: Turn every lead into closed business" src="assets/banner.png" /></a>
+<a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight: From first call to final invoice." src="assets/banner.webp" /></a>
 
-## From first call to final invoice.
+<br />
 
 TheLight is the all-in-one CRM for small businesses and field sales teams: leads, pipeline, scheduling, invoices, maps, and team chat in one app, on the web, iPhone, and iPad.
 
-<a href="https://thelightcrm.com/crm#demo"><img alt="Request a free demo" src="https://img.shields.io/badge/Request%20a%20free%20demo%20%E2%86%92-5B5BF0?style=for-the-badge" /></a>
+<sub>Built solo by Peter Balsamo: native iOS, web, backend, and billing. <b><a href="#for-engineers-and-hiring-managers">For engineers ↓</a></b></sub>
+
+<br />
+
+<a href="https://thelightcrm.com/crm#demo"><img width="282" alt="Request a free demo" src="assets/cta-demo.webp" /></a>
 
 <a href="https://thelightcrm.com/crm">Website</a> · <a href="https://thelightcrm.com/crm#pricing">Pricing</a> · <a href="https://app.thelightcrm.com">Log in</a>
 
@@ -28,11 +32,11 @@ TheLight is the all-in-one CRM for small businesses and field sales teams: leads
 ### A look inside
 
 <div align="center">
-  <a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight pipeline board: new leads, contacted, appointments, and customers, with deal values, upcoming appointments, and deals going cold" src="assets/web-pipeline.jpg" /></a>
+  <a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight pipeline board: new leads, contacted, appointments, and customers, with deal values, upcoming appointments, and deals going cold" src="assets/web-pipeline.webp" /></a>
   <br />
   <sub><b>Pipeline:</b> every deal by stage, with appointments and leads going cold called out</sub>
   <br /><br />
-  <a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight customer list: job value, a health score, and overdue payments for each customer, with quick filters" src="assets/web-customers.jpg" /></a>
+  <a href="https://thelightcrm.com/crm"><img width="100%" alt="TheLight customer list: job value, a health score, and overdue payments for each customer, with quick filters" src="assets/web-customers.webp" /></a>
   <br />
   <sub><b>Customers:</b> job value, health score, and overdue payments at a glance</sub>
   <br />
@@ -46,12 +50,12 @@ TheLight is the all-in-one CRM for small businesses and field sales teams: leads
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img width="240" alt="TheLight iOS main menu with analytics and CRM shortcuts" src="assets/ios-menu.jpg" /><br /><sub><b>Main Menu</b></sub></td>
-    <td align="center"><img width="240" alt="TheLight iOS analytics: customer totals and monthly revenue trend" src="assets/ios-charts.jpg" /><br /><sub><b>Analytics</b></sub></td>
+    <td align="center"><img width="240" alt="TheLight iOS main menu with analytics and CRM shortcuts" src="assets/ios-menu.webp" /><br /><sub><b>Main Menu</b></sub></td>
+    <td align="center"><img width="240" alt="TheLight iOS analytics: customer totals and monthly revenue trend" src="assets/ios-charts.webp" /><br /><sub><b>Analytics</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img width="240" alt="TheLight iOS revenue forecast with actual and projected revenue" src="assets/ios-forecast.jpg" /><br /><sub><b>Revenue Forecast</b></sub></td>
-    <td align="center"><img width="240" alt="TheLight iOS geographic distribution and state heat map" src="assets/ios-heatmap.jpg" /><br /><sub><b>Heat Map</b></sub></td>
+    <td align="center"><img width="240" alt="TheLight iOS revenue forecast with actual and projected revenue" src="assets/ios-forecast.webp" /><br /><sub><b>Revenue Forecast</b></sub></td>
+    <td align="center"><img width="240" alt="TheLight iOS geographic distribution and state heat map" src="assets/ios-heatmap.webp" /><br /><sub><b>Heat Map</b></sub></td>
   </tr>
 </table>
 <sub>Native SwiftUI app with live dashboards built with Swift Charts</sub>
