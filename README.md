@@ -36,7 +36,25 @@ TheLight is the all-in-one CRM for small businesses and field sales teams: leads
   <br />
   <sub><b>Customers:</b> job value, health score, and overdue payments at a glance</sub>
   <br />
-  <sub>Screenshots use a demo company; all names are invented.</sub>
+  <sub>Web screenshots use a demo company; all names are invented.</sub>
+</div>
+
+<br />
+
+#### On iPhone and iPad
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img width="240" alt="TheLight iOS main menu with analytics and CRM shortcuts" src="assets/ios-menu.jpg" /><br /><sub><b>Main Menu</b></sub></td>
+    <td align="center"><img width="240" alt="TheLight iOS analytics: customer totals and monthly revenue trend" src="assets/ios-charts.jpg" /><br /><sub><b>Analytics</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="240" alt="TheLight iOS revenue forecast with actual and projected revenue" src="assets/ios-forecast.jpg" /><br /><sub><b>Revenue Forecast</b></sub></td>
+    <td align="center"><img width="240" alt="TheLight iOS geographic distribution and state heat map" src="assets/ios-heatmap.jpg" /><br /><sub><b>Heat Map</b></sub></td>
+  </tr>
+</table>
+<sub>Native SwiftUI app with live dashboards built with Swift Charts</sub>
 </div>
 
 ---
