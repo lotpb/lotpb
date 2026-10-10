@@ -6,7 +6,7 @@
 
 TheLight is the all-in-one CRM for small businesses and field sales teams: leads, pipeline, scheduling, invoices, maps, and team chat in one app, on the web, iPhone, and iPad.
 
-<sub>Built solo by Peter Balsamo: native iOS, web, backend, and billing. <b><a href="#for-engineers-and-hiring-managers">For engineers ↓</a></b></sub>
+<sub>Built solo by Peter Balsamo: native iOS, web, backend, and billing. <b><a href="#user-content-for-engineers-and-hiring-managers">For engineers ↓</a></b></sub>
 
 <br />
 
